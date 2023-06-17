@@ -6,5 +6,7 @@ Those anomalies have been documented detailed in Chen, Novy-Max, and Zhang (2011
 Considering that Dr. Liu Xin might assign the replication jobs to later students, I will not upload codes directly. Please refer to the doc first. And I would be glad if you email to me or star this repository.
 
 Xiang Li
+
 In Renmin University of China
+
 Xiangl.Zhang.2017@Gmail.com
